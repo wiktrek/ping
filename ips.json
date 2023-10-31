@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "1.1.1.1",
+    "ports": [
+      {
+        "name": "cloudflare dns",
+        "port": 80
+      }
+    ]
+  },
+  {
+    "ip": "8.8.8.8",
+    "ports": [
+      {
+        "name": "google dns",
+        "port": 80
+      }
+    ]
+  }
+]
